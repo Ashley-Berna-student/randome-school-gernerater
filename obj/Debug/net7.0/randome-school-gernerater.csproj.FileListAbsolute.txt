@@ -1,0 +1,15 @@
+/workspaces/randome-school-gernerater/obj/Debug/net7.0/randome-school-gernerater.csproj.AssemblyReference.cache
+/workspaces/randome-school-gernerater/obj/Debug/net7.0/randome-school-gernerater.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/randome-school-gernerater/obj/Debug/net7.0/randome-school-gernerater.AssemblyInfoInputs.cache
+/workspaces/randome-school-gernerater/obj/Debug/net7.0/randome-school-gernerater.AssemblyInfo.cs
+/workspaces/randome-school-gernerater/obj/Debug/net7.0/randome-school-gernerater.csproj.CoreCompileInputs.cache
+/workspaces/randome-school-gernerater/bin/Debug/net7.0/randome-school-gernerater
+/workspaces/randome-school-gernerater/bin/Debug/net7.0/randome-school-gernerater.deps.json
+/workspaces/randome-school-gernerater/bin/Debug/net7.0/randome-school-gernerater.runtimeconfig.json
+/workspaces/randome-school-gernerater/bin/Debug/net7.0/randome-school-gernerater.dll
+/workspaces/randome-school-gernerater/bin/Debug/net7.0/randome-school-gernerater.pdb
+/workspaces/randome-school-gernerater/obj/Debug/net7.0/randome-school-gernerater.dll
+/workspaces/randome-school-gernerater/obj/Debug/net7.0/refint/randome-school-gernerater.dll
+/workspaces/randome-school-gernerater/obj/Debug/net7.0/randome-school-gernerater.pdb
+/workspaces/randome-school-gernerater/obj/Debug/net7.0/randome-school-gernerater.genruntimeconfig.cache
+/workspaces/randome-school-gernerater/obj/Debug/net7.0/ref/randome-school-gernerater.dll
